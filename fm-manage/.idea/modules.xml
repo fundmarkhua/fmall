@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fm-manage.iml" filepath="$PROJECT_DIR$/fm-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-manage-dao/fm-manage-dao.iml" filepath="$PROJECT_DIR$/fm-manage-dao/fm-manage-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-manage-interface/fm-manage-interface.iml" filepath="$PROJECT_DIR$/fm-manage-interface/fm-manage-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-manage-pojo/fm-manage-pojo.iml" filepath="$PROJECT_DIR$/fm-manage-pojo/fm-manage-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-manage-service/fm-manage-service.iml" filepath="$PROJECT_DIR$/fm-manage-service/fm-manage-service.iml" />
+    </modules>
+  </component>
+</project>

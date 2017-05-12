@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fastdfs_client" />
+        <module name="fm-common" />
+        <module name="fm-content-interface" />
+        <module name="fm-content-interface (1)" />
+        <module name="fm-content-service" />
+        <module name="fm-manage-dao" />
+        <module name="fm-manage-interface" />
+        <module name="fm-manage-pojo" />
+        <module name="fm-manage-service" />
+        <module name="fm-manage-web" />
+        <module name="fm-portal-web" />
+        <module name="fm-search-interface" />
+        <module name="fm-search-service" />
+        <module name="fm-search-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fastdfs_client" target="1.5" />
+      <module name="fm-common" target="1.8" />
+      <module name="fm-content" target="1.8" />
+      <module name="fm-content-interface" target="1.8" />
+      <module name="fm-content-interface (1)" target="1.8" />
+      <module name="fm-content-service" target="1.8" />
+      <module name="fm-manage" target="1.8" />
+      <module name="fm-manage-dao" target="1.8" />
+      <module name="fm-manage-interface" target="1.8" />
+      <module name="fm-manage-pojo" target="1.8" />
+      <module name="fm-manage-service" target="1.8" />
+      <module name="fm-manage-web" target="1.8" />
+      <module name="fm-parent" target="1.8" />
+      <module name="fm-portal-web" target="1.8" />
+      <module name="fm-protal-web" target="1.8" />
+      <module name="fm-search" target="1.8" />
+      <module name="fm-search-interface" target="1.8" />
+      <module name="fm-search-service" target="1.8" />
+      <module name="fm-search-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

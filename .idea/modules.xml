@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastdfs_client/fastdfs_client.iml" filepath="$PROJECT_DIR$/fastdfs_client/fastdfs_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-common/fm-common.iml" filepath="$PROJECT_DIR$/fm-common/fm-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-content/fm-content.iml" filepath="$PROJECT_DIR$/fm-content/fm-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-content/fm-content-interface/fm-content-interface.iml" filepath="$PROJECT_DIR$/fm-content/fm-content-interface/fm-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-content/fm-content-service/fm-content-service.iml" filepath="$PROJECT_DIR$/fm-content/fm-content-service/fm-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-manage/fm-manage.iml" filepath="$PROJECT_DIR$/fm-manage/fm-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-manage/fm-manage-dao/fm-manage-dao.iml" filepath="$PROJECT_DIR$/fm-manage/fm-manage-dao/fm-manage-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-manage/fm-manage-interface/fm-manage-interface.iml" filepath="$PROJECT_DIR$/fm-manage/fm-manage-interface/fm-manage-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-manage/fm-manage-pojo/fm-manage-pojo.iml" filepath="$PROJECT_DIR$/fm-manage/fm-manage-pojo/fm-manage-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-manage/fm-manage-service/fm-manage-service.iml" filepath="$PROJECT_DIR$/fm-manage/fm-manage-service/fm-manage-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-manage-web/fm-manage-web.iml" filepath="$PROJECT_DIR$/fm-manage-web/fm-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-parent/fm-parent.iml" filepath="$PROJECT_DIR$/fm-parent/fm-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-portal-web/fm-portal-web.iml" filepath="$PROJECT_DIR$/fm-portal-web/fm-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-search/fm-search.iml" filepath="$PROJECT_DIR$/fm-search/fm-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-search/fm-search-interface/fm-search-interface.iml" filepath="$PROJECT_DIR$/fm-search/fm-search-interface/fm-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-search/fm-search-service/fm-search-service.iml" filepath="$PROJECT_DIR$/fm-search/fm-search-service/fm-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-search-web/fm-search-web.iml" filepath="$PROJECT_DIR$/fm-search-web/fm-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fmall.iml" filepath="$PROJECT_DIR$/.idea/fmall.iml" />
+    </modules>
+  </component>
+</project>

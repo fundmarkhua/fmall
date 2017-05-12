@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/fm-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-content" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-content/fm-content-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-content/fm-content-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-manage" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-manage-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-manage/fm-manage-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-manage/fm-manage-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-manage/fm-manage-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-manage/fm-manage-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-portal-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-search-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-search/fm-search-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fm-search/fm-search-service" charset="UTF-8" />
+  </component>
+</project>

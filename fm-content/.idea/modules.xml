@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fm-content.iml" filepath="$PROJECT_DIR$/fm-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-content-interface/fm-content-interface.iml" filepath="$PROJECT_DIR$/fm-content-interface/fm-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fm-content-service/fm-content-service.iml" filepath="$PROJECT_DIR$/fm-content-service/fm-content-service.iml" />
+    </modules>
+  </component>
+</project>

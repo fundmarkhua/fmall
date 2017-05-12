@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="fm-manage-dao" />
+        <module name="fm-manage-interface" />
+        <module name="fm-manage-pojo" />
+        <module name="fm-manage-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="fm-manage" target="1.8" />
+      <module name="fm-manage-dao" target="1.8" />
+      <module name="fm-manage-interface" target="1.8" />
+      <module name="fm-manage-pojo" target="1.8" />
+      <module name="fm-manage-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

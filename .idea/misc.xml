@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/fm-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/fm-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/fm-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/fm-common/pom.xml" />
+        <option value="$PROJECT_DIR$/fastdfs_client/pom.xml" />
+        <option value="$PROJECT_DIR$/fmprotalweb/pom.xml" />
+        <option value="$PROJECT_DIR$/fm-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/fm-content/fm-content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/fm-content/pom.xml" />
+        <option value="$PROJECT_DIR$/fm-search/pom.xml" />
+        <option value="$PROJECT_DIR$/fm-search/fm-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/fm-search/fm-search-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/fm-search-web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
